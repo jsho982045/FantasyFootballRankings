@@ -1,0 +1,650 @@
+[
+    {
+        "rank": "1",
+        "position": "RB1",
+        "player_name": "Christian McCaffrey",
+        "team": "SF",
+        "price": "57",
+        "bye_week": "9"
+    },
+    {
+        "rank": "2",
+        "position": "RB2",
+        "player_name": "Bijan Robinson",
+        "team": "ATL",
+        "price": "56",
+        "bye_week": "12"
+    },
+    {
+        "rank": "3",
+        "position": "RB3",
+        "player_name": "Breece Hall",
+        "team": "NYJ",
+        "price": "55",
+        "bye_week": "12"
+    },
+    {
+        "rank": "4",
+        "position": "WR1",
+        "player_name": "CeeDee Lamb",
+        "team": "DAL",
+        "price": "55",
+        "bye_week": "7"
+    },
+    {
+        "rank": "5",
+        "position": "WR2",
+        "player_name": "Tyreek Hill",
+        "team": "MIA",
+        "price": "54",
+        "bye_week": "6"
+    },
+    {
+        "rank": "6",
+        "position": "WR3",
+        "player_name": "Amon-Ra St. Brown",
+        "team": "DET",
+        "price": "53",
+        "bye_week": "5"
+    },
+    {
+        "rank": "7",
+        "position": "WR4",
+        "player_name": "Ja'Marr Chase",
+        "team": "CIN",
+        "price": "53",
+        "bye_week": "12"
+    },
+    {
+        "rank": "8",
+        "position": "WR5",
+        "player_name": "Justin Jefferson",
+        "team": "MIN",
+        "price": "52",
+        "bye_week": "6"
+    },
+    {
+        "rank": "9",
+        "position": "RB4",
+        "player_name": "Jonathan Taylor",
+        "team": "IND",
+        "price": "51",
+        "bye_week": "14"
+    },
+    {
+        "rank": "10",
+        "position": "RB5",
+        "player_name": "Saquon Barkley",
+        "team": "PHI",
+        "price": "50",
+        "bye_week": "5"
+    },
+    {
+        "rank": "11",
+        "position": "WR6",
+        "player_name": "A.J. Brown",
+        "team": "PHI",
+        "price": "48",
+        "bye_week": "5"
+    },
+    {
+        "rank": "12",
+        "position": "WR7",
+        "player_name": "Puka Nacua",
+        "team": "LAR",
+        "price": "46",
+        "bye_week": "6"
+    },
+    {
+        "rank": "13",
+        "position": "WR8",
+        "player_name": "Garrett Wilson",
+        "team": "NYJ",
+        "price": "45",
+        "bye_week": "12"
+    },
+    {
+        "rank": "14",
+        "position": "RB6",
+        "player_name": "Jahmyr Gibbs",
+        "team": "DET",
+        "price": "43",
+        "bye_week": "5"
+    },
+    {
+        "rank": "15",
+        "position": "RB7",
+        "player_name": "Kyren Williams",
+        "team": "LAR",
+        "price": "42",
+        "bye_week": "6"
+    },
+    {
+        "rank": "16",
+        "position": "RB8",
+        "player_name": "Isiah Pacheco",
+        "team": "KC",
+        "price": "40",
+        "bye_week": "6"
+    },
+    {
+        "rank": "17",
+        "position": "RB9",
+        "player_name": "Travis Etienne Jr.",
+        "team": "JAC",
+        "price": "38",
+        "bye_week": "12"
+    },
+    {
+        "rank": "18",
+        "position": "WR9",
+        "player_name": "Chris Olave",
+        "team": "NO",
+        "price": "37",
+        "bye_week": "12"
+    },
+    {
+        "rank": "19",
+        "position": "WR10",
+        "player_name": "Davante Adams",
+        "team": "LV",
+        "price": "36",
+        "bye_week": "10"
+    },
+    {
+        "rank": "20",
+        "position": "WR11",
+        "player_name": "Michael Pittman Jr.",
+        "team": "IND",
+        "price": "35",
+        "bye_week": "14"
+    },
+    {
+        "rank": "21",
+        "position": "WR12",
+        "player_name": "Mike Evans",
+        "team": "TB",
+        "price": "34",
+        "bye_week": "11"
+    },
+    {
+        "rank": "22",
+        "position": "WR13",
+        "player_name": "Marvin Harrison Jr.",
+        "team": "ARI",
+        "price": "33",
+        "bye_week": "11"
+    },
+    {
+        "rank": "23",
+        "position": "WR14",
+        "player_name": "Drake London",
+        "team": "ATL",
+        "price": "32",
+        "bye_week": "12"
+    },
+    {
+        "rank": "24",
+        "position": "RB10",
+        "player_name": "Derrick Henry",
+        "team": "BAL",
+        "price": "32",
+        "bye_week": "14"
+    },
+    {
+        "rank": "25",
+        "position": "RB11",
+        "player_name": "Rachaad White",
+        "team": "TB",
+        "price": "31",
+        "bye_week": "11"
+    },
+    {
+        "rank": "26",
+        "position": "WR15",
+        "player_name": "Nico Collins",
+        "team": "HOU",
+        "price": "30",
+        "bye_week": "14"
+    },
+    {
+        "rank": "27",
+        "position": "WR16",
+        "player_name": "Malik Nabers",
+        "team": "NYG",
+        "price": "30",
+        "bye_week": "11"
+    },
+    {
+        "rank": "28",
+        "position": "RB12",
+        "player_name": "Alvin Kamara",
+        "team": "NO",
+        "price": "29",
+        "bye_week": "12"
+    },
+    {
+        "rank": "29",
+        "position": "RB13",
+        "player_name": "James Cook",
+        "team": "BUF",
+        "price": "28",
+        "bye_week": "12"
+    },
+    {
+        "rank": "30",
+        "position": "RB14",
+        "player_name": "Joe Mixon",
+        "team": "HOU",
+        "price": "27",
+        "bye_week": "14"
+    },
+    {
+        "rank": "31",
+        "position": "WR17",
+        "player_name": "DK Metcalf",
+        "team": "SEA",
+        "price": "26",
+        "bye_week": "10"
+    },
+    {
+        "rank": "32",
+        "position": "WR18",
+        "player_name": "Deebo Samuel Sr.",
+        "team": "SF",
+        "price": "25",
+        "bye_week": "9"
+    },
+    {
+        "rank": "33",
+        "position": "WR19",
+        "player_name": "DJ Moore",
+        "team": "CHI",
+        "price": "24",
+        "bye_week": "7"
+    },
+    {
+        "rank": "34",
+        "position": "WR20",
+        "player_name": "Brandon Aiyuk",
+        "team": "SF",
+        "price": "23",
+        "bye_week": "9"
+    },
+    {
+        "rank": "35",
+        "position": "QB1",
+        "player_name": "Josh Allen",
+        "team": "BUF",
+        "price": "22",
+        "bye_week": "12"
+    },
+    {
+        "rank": "36",
+        "position": "TE1",
+        "player_name": "Sam LaPorta",
+        "team": "DET",
+        "price": "22",
+        "bye_week": "5"
+    },
+    {
+        "rank": "37",
+        "position": "TE2",
+        "player_name": "Travis Kelce",
+        "team": "KC",
+        "price": "22",
+        "bye_week": "6"
+    },
+    {
+        "rank": "38",
+        "position": "QB2",
+        "player_name": "Jalen Hurts",
+        "team": "PHI",
+        "price": "21",
+        "bye_week": "5"
+    },
+    {
+        "rank": "39",
+        "position": "RB15",
+        "player_name": "Josh Jacobs",
+        "team": "GB",
+        "price": "21",
+        "bye_week": "10"
+    },
+    {
+        "rank": "40",
+        "position": "RB16",
+        "player_name": "Kenneth Walker III",
+        "team": "SEA",
+        "price": "20",
+        "bye_week": "10"
+    },
+    {
+        "rank": "41",
+        "position": "RB17",
+        "player_name": "De'Von Achane",
+        "team": "MIA",
+        "price": "19",
+        "bye_week": "6"
+    },
+    {
+        "rank": "42",
+        "position": "WR21",
+        "player_name": "DeVonta Smith",
+        "team": "PHI",
+        "price": "19",
+        "bye_week": "5"
+    },
+    {
+        "rank": "43",
+        "position": "WR22",
+        "player_name": "Stefon Diggs",
+        "team": "HOU",
+        "price": "18",
+        "bye_week": "14"
+    },
+    {
+        "rank": "44",
+        "position": "WR23",
+        "player_name": "Jaylen Waddle",
+        "team": "MIA",
+        "price": "17",
+        "bye_week": "6"
+    },
+    {
+        "rank": "45",
+        "position": "WR24",
+        "player_name": "Cooper Kupp",
+        "team": "LAR",
+        "price": "17",
+        "bye_week": "6"
+    },
+    {
+        "rank": "46",
+        "position": "WR25",
+        "player_name": "Calvin Ridley",
+        "team": "TEN",
+        "price": "15",
+        "bye_week": "5"
+    },
+    {
+        "rank": "47",
+        "position": "WR26",
+        "player_name": "Zay Flowers",
+        "team": "BAL",
+        "price": "15",
+        "bye_week": "14"
+    },
+    {
+        "rank": "48",
+        "position": "WR27",
+        "player_name": "Tee Higgins",
+        "team": "CIN",
+        "price": "14",
+        "bye_week": "12"
+    },
+    {
+        "rank": "49",
+        "position": "QB3",
+        "player_name": "Lamar Jackson",
+        "team": "BAL",
+        "price": "13",
+        "bye_week": "14"
+    },
+    {
+        "rank": "50",
+        "position": "QB4",
+        "player_name": "Patrick Mahomes",
+        "team": "KC",
+        "price": "13",
+        "bye_week": "6"
+    },
+    {
+        "rank": "51",
+        "position": "TE3",
+        "player_name": "Mark Andrews",
+        "team": "BAL",
+        "price": "12",
+        "bye_week": "14"
+    },
+    {
+        "rank": "52",
+        "position": "WR28",
+        "player_name": "George Pickens",
+        "team": "PIT",
+        "price": "11",
+        "bye_week": "9"
+    },
+    {
+        "rank": "53",
+        "position": "WR29",
+        "player_name": "Chris Godwin",
+        "team": "TB",
+        "price": "11",
+        "bye_week": "11"
+    },
+    {
+        "rank": "54",
+        "position": "WR30",
+        "player_name": "Tank Dell",
+        "team": "HOU",
+        "price": "10",
+        "bye_week": "14"
+    },
+    {
+        "rank": "55",
+        "position": "WR31",
+        "player_name": "Amari Cooper",
+        "team": "CLE",
+        "price": "10",
+        "bye_week": "10"
+    },
+    {
+        "rank": "56",
+        "position": "TE4",
+        "player_name": "Trey McBride",
+        "team": "ARI",
+        "price": "10",
+        "bye_week": "11"
+    },
+    {
+        "rank": "57",
+        "position": "TE5",
+        "player_name": "Evan Engram",
+        "team": "JAC",
+        "price": "10",
+        "bye_week": "12"
+    },
+    {
+        "rank": "58",
+        "position": "QB5",
+        "player_name": "Anthony Richardson",
+        "team": "IND",
+        "price": "914",
+        "bye_week": "138."
+    },
+    {
+        "rank": "59",
+        "position": "QB6",
+        "player_name": "C.J. Stroud",
+        "team": "HOU",
+        "price": "914",
+        "bye_week": "139."
+    },
+    {
+        "rank": "60",
+        "position": "QB7",
+        "player_name": "Joe Burrow",
+        "team": "CIN",
+        "price": "912",
+        "bye_week": "140."
+    },
+    {
+        "rank": "61",
+        "position": "QB8",
+        "player_name": "Dak Prescott",
+        "team": "DAL",
+        "price": "8",
+        "bye_week": "7"
+    },
+    {
+        "rank": "62",
+        "position": "RB18",
+        "player_name": "Rhamondre Stevenson",
+        "team": "NE",
+        "price": "814",
+        "bye_week": "142."
+    },
+    {
+        "rank": "63",
+        "position": "RB19",
+        "player_name": "D'Andre Swift",
+        "team": "CHI",
+        "price": "8",
+        "bye_week": "7"
+    },
+    {
+        "rank": "64",
+        "position": "RB20",
+        "player_name": "James Conner",
+        "team": "ARI",
+        "price": "711",
+        "bye_week": "144."
+    },
+    {
+        "rank": "65",
+        "position": "RB21",
+        "player_name": "Aaron Jones",
+        "team": "MIN",
+        "price": "7",
+        "bye_week": "6"
+    },
+    {
+        "rank": "66",
+        "position": "RB22",
+        "player_name": "Zamir White",
+        "team": "LV",
+        "price": "710",
+        "bye_week": "146."
+    },
+    {
+        "rank": "67",
+        "position": "WR32",
+        "player_name": "Diontae Johnson",
+        "team": "CAR",
+        "price": "711",
+        "bye_week": "147."
+    },
+    {
+        "rank": "68",
+        "position": "WR33",
+        "player_name": "Keenan Allen",
+        "team": "CHI",
+        "price": "6",
+        "bye_week": "7"
+    },
+    {
+        "rank": "69",
+        "position": "WR34",
+        "player_name": "Rashee Rice",
+        "team": "KC",
+        "price": "6",
+        "bye_week": "6"
+    },
+    {
+        "rank": "70",
+        "position": "WR35",
+        "player_name": "Christian Kirk",
+        "team": "JAC",
+        "price": "612",
+        "bye_week": "150."
+    },
+    {
+        "rank": "71",
+        "position": "WR36",
+        "player_name": "Terry McLaurin",
+        "team": "WAS",
+        "price": "614",
+        "bye_week": "151."
+    },
+    {
+        "rank": "72",
+        "position": "WR37",
+        "player_name": "Jaxon Smith-Njigba",
+        "team": "SEA",
+        "price": "610",
+        "bye_week": "152."
+    },
+    {
+        "rank": "73",
+        "position": "TE6",
+        "player_name": "George Kittle",
+        "team": "SF",
+        "price": "6",
+        "bye_week": "9"
+    },
+    {
+        "rank": "74",
+        "position": "TE7",
+        "player_name": "Dalton Kincaid",
+        "team": "BUF",
+        "price": "512",
+        "bye_week": "154."
+    },
+    {
+        "rank": "75",
+        "position": "TE8",
+        "player_name": "Kyle Pitts",
+        "team": "ATL",
+        "price": "512",
+        "bye_week": "155."
+    },
+    {
+        "rank": "76",
+        "position": "RB23",
+        "player_name": "Brian Robinson Jr.",
+        "team": "WAS",
+        "price": "514",
+        "bye_week": "156."
+    },
+    {
+        "rank": "77",
+        "position": "RB24",
+        "player_name": "Najee Harris",
+        "team": "PIT",
+        "price": "5",
+        "bye_week": "9"
+    },
+    {
+        "rank": "78",
+        "position": "RB25",
+        "player_name": "David Montgomery",
+        "team": "DET",
+        "price": "4",
+        "bye_week": "5"
+    },
+    {
+        "rank": "79",
+        "position": "RB26",
+        "player_name": "Jaylen Warren",
+        "team": "PIT",
+        "price": "4",
+        "bye_week": "9"
+    },
+    {
+        "rank": "80",
+        "position": "RB27",
+        "player_name": "Javonte Williams",
+        "team": "DEN",
+        "price": "414",
+        "bye_week": "160."
+    },
+    {
+        "rank": "1",
+        "position": "RB1",
+        "player_name": "Christian McCaffrey",
+        "team": "SF",
+        "price": "57",
+        "bye_week": "9"
+    }
+]
